@@ -1,0 +1,6 @@
+name: activelr
+dependencies:
+  - python=3.8
+  - datasets
+  - transformers
+  - pytorch
